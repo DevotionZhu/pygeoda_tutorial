@@ -2,4 +2,4 @@ pandas
 geopandas
 matplotlib
 descartes
-pygeoda
+pygeoda==0.0.2
